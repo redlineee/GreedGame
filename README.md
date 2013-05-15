@@ -21,6 +21,3 @@ A greed roll is scored as follows:
 
 * Everything else is worth 0 points.
 
-
-
-
